@@ -531,6 +531,9 @@
 .icon-dribbble:before {
   content: "\e063";
 }
+.icon-ic-tab-buy-new:before {
+  content: "\e95e";
+}
 .icon-ic-about-us:before {
   content: "\e949";
 }
@@ -594,9 +597,6 @@
 .icon-ic-smartphone:before {
   content: "\e95d";
 }
-.icon-ic-tab-buy-new:before {
-  content: "\e95e";
-}
 .icon-ic-tab-myaccount:before {
   content: "\e95f";
 }
@@ -624,4 +624,3 @@
 .icon-ic-tab-offers:before {
   content: "\e903";
 }
-
