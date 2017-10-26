@@ -24,6 +24,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-ic-tab-home-active:before {
+  content: "\e94e";
+}
+.icon-ic-tab-basket-active:before {
+  content: "\e963";
+}
+.icon-ic-tab-buy-new-active:before {
+  content: "\e964";
+}
+.icon-ic-tab-myaccount-active:before {
+  content: "\e965";
+}
+.icon-ic-tab-map-pin-active:before {
+  content: "\e966";
+}
+.icon-ic-tab-map-pin:before {
+  content: "\e967";
+}
 .icon-mobile:before {
   content: "\e000";
 }
